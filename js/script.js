@@ -17,3 +17,9 @@ const isChecked = true;
 const isClose = false;
 
 console.log(isChecked || isClose); 
+
+
+const isChecke = true;
+const isClosed = false;
+
+console.log(isChecke || isClosed); 
